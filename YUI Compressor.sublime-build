@@ -11,7 +11,7 @@
     "windows": {
         "cmd": [
 			"java",
-			"-jar", "${packages}\YUI Compressor\bin\yuicompressor-2.4.7.jar",
+			"-jar", "${packages}\\YUI Compressor\\bin\\yuicompressor-2.4.7.jar",
 			"--charset", "utf-8",
 			"--preserve-semi",
 			"--line-break", "150",
