@@ -5,7 +5,7 @@
 		"--charset", "utf-8",
 		"--preserve-semi",
 		"--line-break", "150",
-		"-o", "${file_base_name}-min.${file_extension}",
+		"-o", "${file_base_name}.min.${file_extension}",
 		"$file"
 	],
     "windows": {
@@ -15,7 +15,7 @@
 			"--charset", "utf-8",
 			"--preserve-semi",
 			"--line-break", "150",
-			"-o", "${file_base_name}-min.${file_extension}",
+			"-o", "${file_base_name}.min.${file_extension}",
 			"$file"
 		]
     },
