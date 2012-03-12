@@ -13,4 +13,4 @@ make sure you can run `java -v` from the terminal / command prompt.
 
 Open a .js or .css file and press `F7` or `command + b`.
 
-The plugin generates a new files with the extension `.min.js` or `.min.css`
+The plugin generates a new files with the extension `-min.js` or `-min.css`
